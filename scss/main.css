@@ -11979,4 +11979,8 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+}
+footer.footer {
+  background-color: #f8f9fa;
+  padding: 15px;
 }/*# sourceMappingURL=main.css.map */
